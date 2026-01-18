@@ -71,7 +71,7 @@ Screenshots from account setup and privacy configuration:
 > - Password: `Password123!` (lab only)
 > - Security questions: fake answers (lab environment)
 > 
-> PC name can be customized as desired for lab documentation
+> PC name can be customized as desired, current name is for lab documentation purposes only
 
 ---
 
@@ -87,7 +87,7 @@ Screenshots demonstrating routine IT Technician tasks:
 > - Installed all Windows updates
 > - Confirmed VM is operational and ready for troubleshooting
 > 
-> Additional tasks such as snapshots and simulated troubleshooting can be added if desired
+> Additional tasks such as snapshots and simulated troubleshooting can be used to expand this lab in the future
 
 ---
 
