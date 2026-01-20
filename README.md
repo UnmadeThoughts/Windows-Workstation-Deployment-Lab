@@ -119,4 +119,23 @@ In real-world IT environments, technicians are responsible not only for installi
 
 This lab demonstrates the ability to:
 
-- Follow structure
+- Follow structured deployment procedures  
+- Validate system health after installation  
+- Document technical work clearly and professionally  
+
+These skills are foundational to entry-level IT and support roles.
+
+---
+
+## Future Expansion
+
+This lab can be expanded to include:
+
+- User account management
+- Snapshot creation and rollback
+- Simulated troubleshooting scenarios
+- Software installation and removal
+- Basic network configuration
+
+---
+
